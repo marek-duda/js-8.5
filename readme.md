@@ -1,0 +1,1 @@
+# 8.5 Typy danych, po co ci zmienne
